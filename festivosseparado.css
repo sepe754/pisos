@@ -8,7 +8,7 @@ table {
 }
 
 td{
-	padding:5px;font-style:oblique;font-size:25px;
+	padding:5px;font-style:oblique;font-size:40px;
 }
 
 th{
@@ -23,7 +23,7 @@ h3{
 }
 
 .black{
-	background-color:black;
+	background-color:pink;
 }
 .totalteres{
 background-color:#9c88ff;
